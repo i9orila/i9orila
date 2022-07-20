@@ -1,6 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=E3BE7A&center=true&vCenter=true&lines=Hi+there%2C+I'm+Igor!;Developer+from+RND.)](https://git.io/typing-svg)
+
+
 <!--
-**i9orila/i9orila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2 align="center"> 
+    <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" 
+width="50%" > 
+</h2>
 -->
 
 
@@ -33,7 +39,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;  
 
-## Frameworks  
+## Frameworks ⚙️ 
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
 <img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
@@ -46,6 +52,14 @@ Here are some ideas to get you started:
 
 &nbsp;
 &nbsp; 
+    
+## Where to find me 🔍 
+&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/i9orila)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://tlgg.ru/i9orila)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/i9orila)
+ 
+
 
 
 
