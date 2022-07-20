@@ -40,14 +40,14 @@ width="50%" >
 &nbsp;  
 
 ## Frameworks ⚙️ 
-<img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
-<img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
-<img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
-<img align="left" alt="Firebase" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/firebase.png" />
-<img align="left" alt="CoreAnimation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreanimation.png?raw=true" />
-<img align="left" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
-<img align="left" alt="WidgetKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/widgetkit.png?raw=true" />
-<img align="left" alt="CoreAudio" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreaudio.png?raw=true" />
+<img align="left" alt="CocoaTouch" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/cocoatouch.png?raw=true" />
+<img align="left" alt="SwiftUI" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/swiftui.png?raw=true" />
+<img align="left" alt="CoreData" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/coredata.png?raw=true" />
+<img align="left" alt="Firebase" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/firebase.png" />
+<img align="left" alt="CoreAnimation" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/coreanimation.png?raw=true" />
+<img align="left" alt="AVFoundation" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/avfoundation.png?raw=true" />
+<img align="left" alt="WidgetKit" height="36px" src="https://github.com/i9orila/i9orila/blob/main/Assets/widgetkit.png?raw=true" />
+
 
 
 &nbsp;
@@ -55,9 +55,10 @@ width="50%" >
     
 ## Where to find me 🔍 
 &nbsp;
-[<img src="https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/i9orila)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://tlgg.ru/i9orila)
+[<img src="https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/i9orila)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/i9orila)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/x)
  
 
 
