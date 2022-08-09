@@ -66,7 +66,7 @@ width="50%" >
 
 ## iOS Apps
 <a href="https://github.com/i9orila/FlashChat">
-<img align="left" alt="FlashChat" height="40px" src="https://github.com/i9orila/FlashChat/tree/main/FlashChat/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+<img align="left" alt="FlashChat" height="40px" src="https://github.com/i9orila/FlashChat/blob/main/FlashChat/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
 
 
