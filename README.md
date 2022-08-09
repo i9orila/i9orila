@@ -68,6 +68,9 @@ width="50%" >
 <a href="https://github.com/i9orila/FlashChat">
 <img align="left" alt="FlashChat" height="40px" src="https://github.com/i9orila/FlashChat/blob/main/FlashChat/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
+    <a href="https://github.com/i9orila/Weather">
+<img align="left" alt="Weather" height="40px" src="https://github.com/i9orila/Weather/blob/main/Weather)/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
 
 
 
