@@ -60,6 +60,14 @@ width="50%" >
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/i9orila)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/x)
  
+&nbsp;
+&nbsp;  
+
+
+## iOS Apps
+<a href="https://github.com/i9orila/FlashChat">
+<img align="left" alt="FlashChat" height="40px" src="https://github.com/i9orila/FlashChat/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+</a>
 
 
 
