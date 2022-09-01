@@ -75,7 +75,7 @@ width="50%" >
 <img align="left" alt="H4X0R-NEWS" height="40px" src="https://github.com/i9orila/H4X0R-NEWS/blob/Development/H4X0R%20NEWS/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
      <a href="https://github.com/i9orila/Todoey">
-<img align="left" alt="H4X0R-NEWS" height="40px" src="https://github.com/i9orila/Todoey/blob/Dev/Todoey/Supporting Files/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
+<img align="left" alt="Todoey" height="40px" src="https://github.com/i9orila/Todoey/blob/Dev/Todoey/Supporting Files/Assets.xcassets/AppIcon.appiconset/40.png?raw=true" />
 </a>
 
 
