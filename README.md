@@ -30,7 +30,7 @@ width="50%" >
 <a href="https://github.com/i9orila">  
     <img 
          lign="left" 
-         width="46%" 
+         width="48.5%" 
          align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=i9orila&theme=onedark&hide_border=true" 
          />
