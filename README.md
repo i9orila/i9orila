@@ -24,7 +24,7 @@ width="50%" >
 <a href="https://github.com/i9orila">
     <img 
          align="center" 
-         width="46%" 
+         width="40%" 
          src="https://github-readme-stats.vercel.app/api?username=i9orila&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Stats&line_height=36&theme=onedark&hide_border=true"   
          />
 <a href="https://github.com/i9orila">  
